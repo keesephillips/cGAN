@@ -45,8 +45,8 @@ To replicate the environment locally, a CUDA-capable GPU with CUDA 12.1+ drivers
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/applied-cv-project-3.git
-cd applied-cv-project-3
+git clone https://github.com/<your-username>/applied-cv-project-3.git](https://github.com/keesephillips/cGAN.git
+cd cGAN
 
 # Create and activate a virtual environment
 python3.10 -m venv venv
