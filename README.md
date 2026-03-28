@@ -16,6 +16,7 @@ For a detailed discussion of the project methodology, experimental design, resul
 .
 ├── README.md              # This file
 ├── requirements.txt       # Python dependencies (Colab environment snapshot)
+├── model.ipynb            # The notebook used for training and testing the model
 ├── project_3.pdf          # Full project report with methodology and evaluation
 └── ...                    # Source notebooks and supporting files
 ```
